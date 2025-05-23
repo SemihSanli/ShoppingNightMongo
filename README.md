@@ -1,4 +1,4 @@
-# 🛒 Modern E-Ticaret Web Uygulaması | ASP.NET Core MVC & MongoDB
+# 🔧 Modern E-Ticaret Web Uygulaması | ASP.NET Core MVC & MongoDB
 
 Bu proje M&Y Akademi Danışmanlık bünyesinde Murat Yücedağ eğitmenliğinde, **MongoDB** veritabanı ve **ASP.NET Core MVC** mimarisi ile geliştirilmiş,  Kullanıcılar ürünleri görüntüleyebilir, slider bileşenleri aracılığıyla kampanyaları takip edebilir ve e-posta aboneliği ile indirim kuponlarına ulaşabilirler. Yönetim paneli sayesinde içerikler kolayca kontrol edilebilir.
 
